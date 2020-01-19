@@ -38,7 +38,7 @@ defmodule HedwigYoutube.Mixfile do
       {:hedwig, "~> 1.0"},
       {:ex_doc, "~> 0.19", only: :dev},
       {:httpoison, "~> 1.6.2"},
-      {:poison, "~> 3.1"},
+      {:poison, "~> 4.0"},
       {:runtime_config, "~> 0.1.0"},
     ]
   end
